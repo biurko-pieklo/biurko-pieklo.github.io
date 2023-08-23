@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mateusz Wiśniewski</title>
-</head>
-<body>
-    Hello world
-</body>
-</html>
+<?php
+require_once('./theme/header.php');
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus neque debitis iusto itaque ipsum, voluptatum veniam incidunt, odio ex repellat fuga? Dolores officia quam iste expedita esse possimus similique non?</p>
+require_once('./theme/footer.php');
