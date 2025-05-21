@@ -1,0 +1,20 @@
+* {
+    cursor: url("finger.png"), auto !important;
+    user-select: none;
+    -moz-user-select: none;
+}
+
+.img {
+    display: block;
+    margin: auto;
+    position: relative;
+    width: fit-content;
+}
+
+a {
+    position: relative;
+}
+
+a:hover {
+    cursor: url("finger-pressed.png"), auto !important;
+}
